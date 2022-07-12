@@ -374,7 +374,7 @@ a {
 
 .whatsapp {
   position: fixed;
-  left: 30px;
+  right: 30px;
   bottom: 25px;
   z-index: 999;
   font-size: 42px;
