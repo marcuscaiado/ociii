@@ -176,15 +176,14 @@
   }
 
   .carousel-control-prev-icon,
-  .carousel-control-next-icon {
+.carousel-control-next-icon {
     width: 3rem;
     height: 3rem;
     border-width: 12px;
   }
 }
 .page-header {
-  background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url(../img/carousel-1.jpg) center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(../img/carousel-1.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -246,8 +245,7 @@
 
 /*** Appointment ***/
 .appointment {
-  background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url(../img/carousel-2.jpg) center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(../img/carousel-2.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -382,7 +380,7 @@ a {
 }
 
 .thumbnail {
-  height: 30rem;
+  height: 50rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
